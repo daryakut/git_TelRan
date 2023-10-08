@@ -1,0 +1,25 @@
+1. git clone https://github.com/username/repository.git
+
+2. 
+git init
+git add .
+git commit -m
+git remote add origin <URL репозитория>
+git push -u origin main
+
+3.
+git pull origin main
+
+4.
+git checkout -- <filename>
+git reset --hard
+
+5.
+git reset HEAD <filename>
+
+6.
+git reset HEAD~1
+
+7.
+git commit --amend
+git push --force
